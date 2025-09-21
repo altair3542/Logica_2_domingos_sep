@@ -61,4 +61,3 @@ while True:
             print()
     else:
         print("Inválida")
-
